@@ -27,5 +27,30 @@ public class GCD {
 		}
 		return gcd ;
 	}
+}	
+	
+	
+	/*     OR
+	 *	while(n1 != n2)
+	 *	{
+	 *		if(n1 > n2)
+	 *		{
+	 *			n1 -= n2 ;
+	 *		}
+	 *		else
+	 *		{
+	 *			n2 -= n1 ;
+	 *		}
+	 *}
+	 *System.out.println(n1); 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 */
 
-}
+
