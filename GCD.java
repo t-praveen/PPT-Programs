@@ -1,7 +1,6 @@
 //Program to print GCD of 2 numbers . //
 
 
-
 package Recursion;
 import java.util.Scanner;
 
