@@ -29,8 +29,6 @@ public class GCD {
 	}
 }	
 
-	
-	
 	/*     OR
 	 *	while(n1 != n2)
 	 *	{
